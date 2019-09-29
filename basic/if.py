@@ -1,5 +1,5 @@
 # print absolute value of an integer:
-a = int(input('input a number'))
+a = 100
 if a >= 0:
     print(a)
 else:
